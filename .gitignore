@@ -5,3 +5,5 @@ runs
 *.pt
 
 __pycache__
+
+*.zip
